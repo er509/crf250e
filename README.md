@@ -3,23 +3,43 @@ honda crf250e conversion to electric
 
 
 currently torn between gsx250 and crf250
+
+
 gsx frame is cheaper and i can buy easily 
+
+
 gsx also more parts 
+
+
 cooler look
 
 
 but crf listing i found has most parts i need 
+
+
 dirt bike lighter?? 
 
 
 
 # parts
 full bike watercool
+
+
 gsx250 or crf250 frame 
+
+
 fardriver nd721800 
+
+
 domino throttle 
+
+
 adelin brake system 
+
+
 ant bms 
+
+
 rent battery??? (option in china) 
 
 
