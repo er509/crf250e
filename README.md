@@ -50,6 +50,7 @@ rent battery??? (option in china)
 # resources
 
 -builds
+
 https://endless-sphere.com/sphere/threads/better-than-the-stark-varg-76v-90ah-35kw-dirtbike-build.125783/     
 https://endless-sphere.com/sphere/threads/could-i-make-a-fast-dirtbike-with-qs138-90h.124722/     
 https://endless-sphere.com/sphere/threads/electric-kart.68543/     
